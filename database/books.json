@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1726619880327",
+    "title": "The Great Gatsby - Revised Edition",
+    "description": "An updated version of the classic novel by Fitzgerald.",
+    "authorIds": [
+      "1726619203103",
+      "1726619973667"
+    ]
+  },
+  {
+    "id": "1726622594591",
+    "title": "Elias' Book",
+    "description": "A book written by Elias",
+    "authorIds": [
+      "1726619973667"
+    ]
+  },
+  {
+    "id": "1726623780685",
+    "title": "Beyond Good and Evil",
+    "description": "Beyond Good and Evil is a thought-provoking philosophical masterpiece that challenges conventional notions of morality and ethics.",
+    "authorIds": [
+      "1726623379314"
+    ]
+  }
+]

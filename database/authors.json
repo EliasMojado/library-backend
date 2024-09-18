@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1726619203103",
+    "name": "F. Scott Fitzgerald",
+    "biography": "American novelist, essayist, and short story writer",
+    "bookIds": [
+      "1726619880327"
+    ]
+  },
+  {
+    "id": "1726619973667",
+    "name": "John Elias Mojado",
+    "biography": "another famous author",
+    "bookIds": [
+      "1726622594591",
+      "1726619880327"
+    ]
+  },
+  {
+    "id": "1726623379314",
+    "name": "Friedrich Nietszche",
+    "biography": "German philosopher and cultural critic who published intensively in the 1870s and 1880s.",
+    "bookIds": [
+      "1726623780685"
+    ]
+  }
+]
